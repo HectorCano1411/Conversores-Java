@@ -2,8 +2,8 @@
 ![Copia de HCL](https://github.com/HectorCano1411/Conversores-Java/assets/123791914/2a6c9232-5b8b-4430-952b-d3e1e92b94aa)
 
 
-[![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20Progreso-brightgreen)]([link-a-tu-proyecto](https://github.com/HectorCano1411/Conversores-Java))
-[![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)](link-a-licencia)
+[![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20Progreso-brightgreen)]([https://github.com/HectorCano1411/Conversores-Java](https://github.com/HectorCano1411/Conversores-Java))
+[![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)](https://github.com/HectorCano1411/Conversores-Java)
 
 ## Índice
 
